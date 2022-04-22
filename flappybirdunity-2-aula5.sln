@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flappybirdunity-2-aula5", "Assembly-CSharp.csproj", "{68EDA471-4A7E-4CBB-7702-2969A9C3E66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EDA471-4A7E-4CBB-7702-2969A9C3E66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EDA471-4A7E-4CBB-7702-2969A9C3E66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EDA471-4A7E-4CBB-7702-2969A9C3E66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EDA471-4A7E-4CBB-7702-2969A9C3E66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
