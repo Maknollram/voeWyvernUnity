@@ -1,6 +1,6 @@
 PSP2
 PlayerPath?
-C:/Users/Maknollram/Documents/flappybirdunity-2-aula5/voeWyvern
+C:/Users/Maknollram/Documents/voeWyvern/voeWyvern
 SceneListBegin?
 Assets/Cenas/Jogo.unity
 SceneListEnd?
